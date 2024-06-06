@@ -47,10 +47,10 @@ The dataset `insurance.csv` contains the following columns:
 ## Results
 
 The Bayesian hierarchical model provides predictions for insurance charges with the following performance metrics:
-- Mean Absolute Error (MAE): 
-- Mean Squared Error (MSE): 
-- Root Mean Squared Error (RMSE): 
-- R-squared: 
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE) 
+- Root Mean Squared Error (RMSE)
+- R-squared 
 
 ## Conclusion
 
